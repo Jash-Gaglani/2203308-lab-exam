@@ -1,0 +1,21 @@
+1.Created a Github repository in Github web
+2.git init
+3.git clone url
+4.touch README.md
+5.cat >> README.md
+6.git clone url
+7.cp ca_500.csv ~/2203308-lab-exam
+8.cp us_500.csv ~/2203308-lab-exam
+9.wc -l ca_500.csv
+10.wc -l us_500.csv
+11.head -n1 ca_500.csv
+12.head -n1 us_500.csv
+13.grep -iw "Montreal" ca_500.csv
+14.head -n1 ca_500.csv >> ca_city_Montreal.csv
+15.grep -iw "Montreal" ca_500.csv >> ca_city_Montreal.csv
+16.Made the shell script to get the desired output of the question
+17.Moved all data files to data directory
+18.Moved all shell files to code directory
+
+
+
